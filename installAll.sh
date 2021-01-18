@@ -11,7 +11,6 @@ brew install git
 brew install node
 brew install watchman
 npm install -g n
-npm install -g react-native-cli
 
 open https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 open https://dl.google.com/dl/android/studio/install/3.4.1.0/android-studio-ide-183.5522156-mac.dmg
